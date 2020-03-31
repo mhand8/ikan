@@ -53,7 +53,7 @@ body.bstem{padding-top: 0;}
 .head_b{height: 1.25rem;}
 .head_logo {float: left;width: 3.25rem;margin-top: 0.3rem;}
 .head_logo .logo {width: 3.25rem;height: 0.9rem;background-repeat: no-repeat;background-position: 50% 50%;background-size: cover;}
-.head_menu_a {width: auto;position: absolute;top: 50%;left: 25%;transform: translate(-50%, -50%);z-index: 10;}
+.head_menu_a {width: auto;position: absolute;top: 50%;left: 40%;transform: translate(-50%, -50%);z-index: 10;}
 .head_menu_a li {position: relative; line-height: 1.5rem;float: left;padding: 0 0.4rem;}
 .head_menu_a li.active a{color: #ff5f00;font-weight: 700;font-size: 0.425rem;opacity: 1;}
 .head_menu_a li.active a:after{content: " "; position: absolute; left: 50%; bottom: 0; width: 20px; height: 2px; background: #ff5f00; border-radius: 2px; -webkit-transform: translate(-50%,0); -ms-transform: translate(-50%,0); -o-transform: translate(-50%,0); transform: translate(-50%,0);}
